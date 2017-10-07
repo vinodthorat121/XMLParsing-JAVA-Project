@@ -1,0 +1,2 @@
+# XMLParsing-JAVA-Project
+Parse XML : XML provides the ability to represent hierarchical structures with its parent-child relationships. This enables applications to store structured data in XML for export. Importing this XML data into a database is a bit involved as we shall see in this article. You need to write code to manage the database connection. In addition, you need to parse the XML and isolate the data that needs to be imported.
